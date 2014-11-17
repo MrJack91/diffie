@@ -93,3 +93,9 @@ sympy-plots-for-*.tex/
 *.mw
 *.slg
 *.syi
+
+# Photoshop
+*.psd
+
+# Shitty Windows Files
+Thumbs.db
